@@ -1,5 +1,5 @@
-# Solutions
-It contains the solutions of problems-2 (i.e. Data in R) in **"simpleR – Using R for Introductory Statistics"** by **"John Verzani"**.\
+# Solutions of "simpleR – Using R for Introductory Statistics"
+It contains the solutions of problems-2 (i.e. Data in R) in [**"simpleR – Using R for Introductory Statistics"**](http://www.macs.hw.ac.uk/~jphillips/F73DA2/Rinfo.pdf) by **"John Verzani"**.\
 Problems are solved with **R tools 4.0.2** and **RStudio IDE**. 
 
 ***
@@ -14,7 +14,9 @@ You should see the number of miles between fill-ups. Use the max to find the max
 fill-ups, the mean function to find the average number of miles and the min to get the minimum number of miles.\
 
 ### Solution
-Check this :point_right: [problem_2_1](https://github.com/bijaykrushna12345/problem_2/blob/master/problem_2_1.R)
+Check this :point_right: [problem_2_1](https://github.com/bijaykrushna12345/problem_2/blob/master/problem_2_1.R)\
+<br />
+![RStudio](/images/2_1.png)
 
 ***
 
@@ -32,8 +34,9 @@ commutes)\
 What do you get? What percent of your commutes are less than 17 minutes? How can you answer this with R?
 
 ### Solution
-Check this :point_right: [problem_2_2](https://github.com/bijaykrushna12345/problem_2/blob/master/problem_2_2.R)
-
+Check this :point_right: [problem_2_2](https://github.com/bijaykrushna12345/problem_2/blob/master/problem_2_2.R)\
+<br />
+![RStudio](/images/2_2.png)
 ***
 
 ### Problem 2.3
@@ -44,8 +47,9 @@ the cell phone. What is the smallest amount you spent in a month? What is the la
 was the amount greater than $40? What percentage was this?
 
 ### Solution
-Check this :point_right: [problem_2_3](https://github.com/bijaykrushna12345/problem_2/blob/master/problem_2_3.R)
-
+Check this :point_right: [problem_2_3](https://github.com/bijaykrushna12345/problem_2/blob/master/problem_2_3.R)\
+<br />
+![RStudio](/images/2_3.png)
 ***
 
 ### Problem 2.4
@@ -56,8 +60,9 @@ Use R to find the average value and compare it to Edmund’s (http://www.edmunds
 Use R to find the minimum value and the maximum value. Which price would you like to pay?
 
 ### Solution
-Check this :point_right: [problem_2_4](https://github.com/bijaykrushna12345/problem_2/blob/master/problem_2_4.R)
-
+Check this :point_right: [problem_2_4](https://github.com/bijaykrushna12345/problem_2/blob/master/problem_2_4.R)\
+<br />
+![RStudio](/images/2_4.png)
 ***
 
 ### Problem 2.5
@@ -78,8 +83,9 @@ Suppose we assume\
 10.```y[y>=7]```
 
 ### Solution
-Check this :point_right: [problem_2_5](https://github.com/bijaykrushna12345/problem_2/blob/master/problem_2_5.R)
-
+Check this :point_right: [problem_2_5](https://github.com/bijaykrushna12345/problem_2/blob/master/problem_2_5.R)\
+<br />
+![RStudio](/images/2_5.png)
 ***
 
 ### Problem 2.6
@@ -93,4 +99,6 @@ Use R to compute the following functions. Note, we use X1 to denote the first el
 min or guess a built in command.*)
 
 ### Solution
-Check this :point_right: [problem_2_6](https://github.com/bijaykrushna12345/problem_2/blob/master/problem_2_6.R)
+Check this :point_right: [problem_2_6](https://github.com/bijaykrushna12345/problem_2/blob/master/problem_2_6.R)\
+<br />
+![RStudio](/images/2_6.png)
